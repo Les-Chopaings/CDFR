@@ -1,0 +1,15 @@
+[submodule "program/cdfr2023-programme-base-roulante-asservissment"]
+	path = program/cdfr2023-programme-base-roulante-asservissment
+	url = git@github.com:Arviscube/cdfr2023-programme-base-roulante-asservissment.git
+[submodule "program/librairie-commune"]
+	path = program/librairie-commune
+	url = git@github.com:Arviscube/librairie-commune.git
+[submodule "program/simulation-asservissement"]
+	path = program/simulation-asservissement
+	url = git@github.com:Arviscube/simulation-asservissement.git
+[submodule "elelctronic/cdfr2023-base-roulante-carte-asservissment"]
+	path = elelctronic/cdfr2023-base-roulante-carte-asservissment
+	url = git@github.com:Arviscube/cdfr2023-base-roulante-carte-asservissment.git
+[submodule "elelctronic/carte-Raspberry"]
+	path = elelctronic/carte-Raspberry
+	url = git@github.com:Arviscube/carte-Raspberry.git
