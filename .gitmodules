@@ -13,3 +13,6 @@
 [submodule "elelctronic/carte-Raspberry"]
 	path = elelctronic/carte-Raspberry
 	url = git@github.com:Arviscube/carte-Raspberry.git
+[submodule "program/CDFR-programme-principal"]
+	path = program/CDFR-programme-principal
+	url = git@github.com:Arviscube/CDFR-programme-principal.git
