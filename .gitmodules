@@ -7,12 +7,6 @@
 [submodule "program/simulation-asservissement"]
 	path = program/simulation-asservissement
 	url = git@github.com:Les-Chopaings/simulation-asservissement.git
-[submodule "elelctronic/cdfr2023-base-roulante-carte-asservissment"]
-	path = elelctronic/cdfr2023-base-roulante-carte-asservissment
-	url = git@github.com:Les-Chopaings/cdfr2023-base-roulante-carte-asservissment.git
-[submodule "elelctronic/carte-Raspberry"]
-	path = elelctronic/carte-Raspberry
-	url = git@github.com:Les-Chopaings/carte-Raspberry.git
 [submodule "program/CDFR-programme-principal"]
 	path = program/CDFR-programme-principal
 	url = git@github.com:Les-Chopaings/CDFR-programme-principal.git
