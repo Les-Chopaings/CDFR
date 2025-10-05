@@ -16,3 +16,6 @@
 [submodule "program/CDFR-programme-principal"]
 	path = program/CDFR-programme-principal
 	url = git@github.com:Les-Chopaings/CDFR-programme-principal.git
+[submodule "program/Pamis-programm"]
+	path = program/Pamis-programm
+	url = git@github.com:Les-Chopaings/Pamis-programme.git
