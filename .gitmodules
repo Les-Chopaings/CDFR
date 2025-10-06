@@ -19,3 +19,6 @@
 [submodule "program/Pamis-programm"]
 	path = programme/Pamis-programm
 	url = git@github.com:Les-Chopaings/Pamis-programme.git
+[submodule "electronique/carte-arduino"]
+	path = electronique/carte-arduino
+	url = git@github.com:Les-Chopaings/carte-arduino.git
