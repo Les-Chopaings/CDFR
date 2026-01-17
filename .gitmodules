@@ -22,3 +22,6 @@
 [submodule "electronique/carte-arduino"]
 	path = electronique/carte-arduino
 	url = git@github.com:Les-Chopaings/carte-arduino.git
+[submodule "programme/CDFR_programme_Arduino"]
+	path = programme/CDFR_programme_Arduino
+	url = git@github.com:Les-Chopaings/CDFR_programme_Arduino
